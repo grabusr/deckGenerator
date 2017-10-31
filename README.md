@@ -22,6 +22,7 @@ As - 1 lub 11 - zależności co jest lepsze dla właściciela
 Program ma wczytywać talię z pliku (przykładowy plik w załączniku) jako argument podany do programu.
 Wynikiem programu ma być wydrukowanie w konsoli przebiegu gry i jego wyniku w postaci dla dwóch graczy:
 
+```
 [Game started with player: caution player]
 Player:  A, K: 21
 [End round: Player win (1 : 0)]
@@ -39,6 +40,7 @@ Croupier: 9, 9 : 18
 ...
 [End round: Croupier win (7 : 7)]
 [Game over]
+```
 
 Należy zaimplementować dwóch graczy:
 - ostrożny gracz, który zawsze kończy dobierać jeśli wartość jego kart ma 12 lub więcej
