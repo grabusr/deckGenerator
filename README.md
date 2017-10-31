@@ -25,12 +25,16 @@ Wynikiem programu ma być wydrukowanie w konsoli przebiegu gry i jego wyniku w p
 ```
 [Game started with player: caution player]
 Player:  A, K: 21
+Croupier: 10, A : 21
 [End round: Player win (1 : 0)]
 Player: Q, Q : 20
 Croupier: 10, 4, 4 : 18
 [End round: Player win (2 : 0)]
 Player: J, 4 : 14
 Croupier: 9, 9 : 18
+[End round: Croupier win (2 : 1)]
+Player: J, 7 : 17
+Croupier: 7, J : 17
 [End round: Croupier win (2 : 1)]
 ...
 [End round: Croupier win (6 : 8)]
